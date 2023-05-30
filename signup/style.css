@@ -1,0 +1,27 @@
+form{ 
+ background-color:lightblue;
+ padding: 15px;
+ padding-top: 2px;
+ border-radius: 5px; 
+}
+
+body{
+  margin: 0 auto;
+  height: 50vh;
+  width: 100vw;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+  position: relative;
+  border-radius: 5px; 
+  width: 350px;
+  height: 100px;
+}
+
+button{
+    background-color: slategray;
+}
